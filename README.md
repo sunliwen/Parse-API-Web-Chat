@@ -1,7 +1,11 @@
+Based on the example, replace the pulling with pushing by LiveQuery.
+
+---
+
 # Parse-API-Web-Chat
 I made this project with the intention of making videos on Udemy on how to make this project. I made the videos but never got around to publishing them just because of how unprofessional they were.
 
-# Features:
+## Features:
 ### Registration & login:
 Users can actually create accounts to login with! Parse takes care of all the nasty backend work (including security). The beautiful part is that the user login is cached into the web browser. That way when the user leaves the page or closes the browser, they will still be logged in.
 
